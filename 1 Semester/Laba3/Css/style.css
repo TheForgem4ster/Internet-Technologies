@@ -1,0 +1,19 @@
+.wrapper {
+    margin-top: 80px;
+    margin-left: 100px;
+}
+body {
+    background-color: rgb(46, 130, 187);
+}
+h1 {
+    text-align: right;
+}
+td{
+    text-align: center;
+    width: 50px;
+    height: 50px; 
+}
+table {
+    text-align: center;
+    margin: auto;
+}
